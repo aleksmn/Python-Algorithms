@@ -5,7 +5,6 @@ Example: The list [5, 6, 9, 0, 2, 3, 4] was obtained by rotating the sorted list
 We define "rotating a list" as removing the last element of the list and adding it before the first element. E.g. rotating the list [3, 2, 4, 1] produces [1, 3, 2, 4].
 "Sorted list" refers to a list where the elements are arranged in the increasing order e.g. [1, 3, 5, 7].
 '''
-
 from evaluate_tests import evaluate_tests
 
 tests = [
